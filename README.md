@@ -36,6 +36,18 @@ This dataset includes important attributes of the garment manufacturing process 
 - A set of actionable insights and recommendations to improve productivity.
 - An intuitive interface where users can interact with the model.
 
+## Work Flow
+
+- Developed a **Flask application** for productivity prediction in garment manufacturing.
+- Collected and validated a dataset with industry experts.
+- Cleaned and preprocessed the dataset for modeling.
+- Performed exploratory data analysis and feature engineering.
+- Trained a **Random Forest Regressor model** to predict employee productivity.
+- Utilized **XGBoost classification** for label prediction.
+- Evaluated the models with detailed metrics.
+- Created an intuitive user interface for model interaction.
+- Deployed the application using **Docker** and **Render.com.**
+
 ## Installation
 
 1. **Clone the repository:**

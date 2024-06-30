@@ -59,7 +59,7 @@ This dataset includes important attributes of the garment manufacturing process 
 2. **Access the app:**
     - Go to `http://127.0.0.1:5000`
 
-## Docker Deployment
+## Docker 
 
 1. **Pull the Docker image:**
     ```sh
